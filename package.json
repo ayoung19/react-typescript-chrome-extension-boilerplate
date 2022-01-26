@@ -1,6 +1,7 @@
 {
   "name": "react-typescript-chrome-extension-boilerplate",
-  "version": "0.1.0",
+  "description": "Minimal boilerplate for making chrome extensions using React and TypeScript",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "@craco/craco": "^6.4.3",

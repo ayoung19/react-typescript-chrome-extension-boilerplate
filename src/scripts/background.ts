@@ -1,3 +1,3 @@
-console.log("yo");
+import { capitalize } from "../utils";
 
-export {};
+console.log(capitalize("hello from the background script!"));
